@@ -1,6 +1,6 @@
 streamlit
-gspread
-google-auth
 wordcloud
 matplotlib
 pandas
+numpy
+Pillow
